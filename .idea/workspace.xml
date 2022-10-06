@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7a74fc48-e714-4f0e-a1c4-251a8ffdee1a" name="Changes" comment="feat: enum">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ms/email/configs/RabbitMQConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ms/email/consumers/EmailConsumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ms/email/controllers/EmailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ms/email/dtos/EmailDto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ms/email/repositories/EmailRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/ms/email/services/EmailService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7a74fc48-e714-4f0e-a1c4-251a8ffdee1a" name="Changes" comment="fix: atualização">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/ms/email/model/EmailModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ms/email/models/EmailModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +204,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665076847998</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix: atualização">
+      <created>1665077999352</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1665077999352</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix: atualização">
+      <created>1665078072118</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1665078072118</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -279,6 +286,7 @@
     <MESSAGE value="feat: EmailModel" />
     <MESSAGE value="Revert &quot;feat: criação do projeto e os packages&quot;&#10;&#10;This reverts commit 211bc1aa" />
     <MESSAGE value="feat: enum" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: enum" />
+    <MESSAGE value="fix: atualização" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: atualização" />
   </component>
 </project>
