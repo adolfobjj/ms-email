@@ -18,6 +18,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="JpbToolWindowState">
@@ -132,7 +133,28 @@
       <option name="project" value="LOCAL" />
       <updated>1665070906149</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Revert &quot;feat: criação do projeto e os packages&quot;&#10;&#10;This reverts commit 211bc1aa">
+      <created>1665071227255</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665071227255</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: enum">
+      <created>1665071384461</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1665071384461</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: enum">
+      <created>1665071414477</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665071414477</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -171,6 +193,7 @@
     <MESSAGE value="feat: criação do projeto e os packages" />
     <MESSAGE value="feat: config h2" />
     <MESSAGE value="feat: EmailModel" />
+    <MESSAGE value="Revert &quot;feat: criação do projeto e os packages&quot;&#10;&#10;This reverts commit 211bc1aa" />
     <MESSAGE value="feat: enum" />
     <option name="LAST_COMMIT_MESSAGE" value="feat: enum" />
   </component>
