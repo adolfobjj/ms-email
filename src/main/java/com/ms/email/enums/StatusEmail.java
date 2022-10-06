@@ -1,7 +1,7 @@
 package com.ms.email.enums;
 
-public enum StatusEmail {
-    PROCESSING,
-    SENT,
-    ERROR;
+enum público  StatusEmail {
+    PROCESSAMENTO,
+    ENVIADO,
+    ERRO;
 }
